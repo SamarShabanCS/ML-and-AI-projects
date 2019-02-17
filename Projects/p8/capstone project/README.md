@@ -1,3 +1,3 @@
-machine learning nanodegree program projects
+Udacity: machine learning nanodegree program 
+project: **Capstone project**
 
-student name: **Samar Haytamy**
