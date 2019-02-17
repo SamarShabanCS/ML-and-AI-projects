@@ -1,8 +1,8 @@
-Udacity: machine learning nanodegree program 
+**Udacity: machine learning nanodegree program **
 
-project: **Capstone project**
+**project**: **Capstone project**
 
-capstone proposal reviewer comments: 
+**capstone proposal reviewer comments**: 
 https://review.udacity.com/#!/reviews/1504589
 
 **capstone proposal**: Machine Learning Engineer Nanodegree proposal.pdf
