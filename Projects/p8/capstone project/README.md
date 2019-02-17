@@ -1,4 +1,4 @@
-**Udacity: machine learning nanodegree program **
+**Udacity machine learning nanodegree program**
 
 **project**: **Capstone project**
 
