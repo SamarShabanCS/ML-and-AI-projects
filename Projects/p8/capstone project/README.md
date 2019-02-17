@@ -5,9 +5,9 @@ project: **Capstone project**
 capstone proposal reviewer comments: 
 https://review.udacity.com/#!/reviews/1504589
 
-capstone proposal: Machine Learning Engineer Nanodegree proposal.pdf
+*capstone proposal*: Machine Learning Engineer Nanodegree proposal.pdf
 
-capstone report: Machine Learning Engineer Nanodegree report.pdf
+**capstone report**: Machine Learning Engineer Nanodegree report.pdf
 
 csv folder: contains the raw QoS data of cloud provider.
 
