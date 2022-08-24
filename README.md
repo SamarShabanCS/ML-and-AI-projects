@@ -1,3 +1,3 @@
 machine learning nanodegree program projects
 
-student name: **Samar Haytamy**
+Prapared by: **Samar Haytamy**
