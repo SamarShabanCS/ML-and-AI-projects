@@ -4,5 +4,5 @@ A Graph is a collection of nodes (vertices) along with identified pairs of nodes
 
 Install it by this command:
 
-conda install anaconda::networkx
+<b>conda install anaconda::networkx</b>
 
