@@ -6,3 +6,7 @@ Install it by this command:
 
 <b>conda install anaconda::networkx</b>
 
+Colab Link:
+https://colab.research.google.com/drive/1LDd3Uf1ZpohxyfE2C-noYCHAnwUl6KXa?usp=sharing
+
+
